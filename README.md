@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center" style="margin-bottom: 10px;">A passionate frontend developer from Las Vegas</h3>
 
-<div style="margin: 2rem 0; display: flex; flex-wrap: wrap; justify-content: space-between;">
-<div style="min-width: 400px"><ul>
+<ul>
     <li>🔥 I’m currently working on <a title="thomascarman.github.io" href="https://github.com/thomascarman/thomascarman.github.io">My Protfolio Site</a> 😎</li>
     <li>🌱 I’m currently learning <strong>Svelte</strong> Development</li>
     <li>👯 I’m looking to collaborate with other Developers 😉</li>
@@ -14,9 +13,7 @@
         <span title="Golfing">🏌</span>
         <span title="Running">🏃</span>
         <span title="Hockey">🏒</span> GO LVGK!</li>
-</ul></div>
-<div><img src="https://github-readme-stats.vercel.app/api?username=thomascarman"></img></div>
-</div>
+</ul>
 
 <hr style="margin: 2rem  0;" />
 
