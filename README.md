@@ -5,7 +5,7 @@
     <li>🔥 I’m currently working on <a title="thomascarman.github.io" href="https://github.com/thomascarman/thomascarman.github.io">My Protfolio Site</a> 😎</li>
     <li>🌱 I’m currently learning <strong>Svelte</strong> Development</li>
     <li>👯 I’m looking to collaborate with other Developers 😉</li>
-    <li>🥅 2021 Goals: Contribute to Open Source projects</li>
+    <li>🥅 2022 Goals: Contribute to Open Source projects</li>
     <li>💬 Ask me about anything, I am happy to help 😃</li>
     <li>📬 How to reach me: <a title="LinkedIn" href="https://linkedin.com/in/thomas-carman-6a59b5122/">Let's get in touch!</a></li>
     <li>⚡ Fun fact: I love
